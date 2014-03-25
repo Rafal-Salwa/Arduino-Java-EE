@@ -1,0 +1,226 @@
+/* <![CDATA[ */
+/* table {
+     border:2px solid black !important;
+ }     
+ 
+ table td {
+     border:2px solid black !important;
+ }
+ table tr{
+     border:2px solid black !important;
+ }
+*/
+#tabela {
+    border: 1px solid silver;
+    border-collapse: collapse;
+}
+#tabela td {
+    border: 1px solid silver;
+    height: 22px;
+    padding-top:0px;
+    padding-bottom:0px;
+    padding-left: 4px;
+    padding-right: 4px;
+}
+
+#tabela1 {
+    border: 1px solid transparent;
+    border-collapse: collapse;
+}
+#tabela1 td {
+    border: 1px solid transparent;
+    height: 22px;
+    padding-top:0px;
+    padding-bottom:0px;
+    padding-left: 4px;
+    padding-right: 4px;
+}
+
+#tabela2 {
+    border: 1px solid transparent;
+    border-collapse: collapse;
+}
+#tabela2 td {
+    border: 1px solid transparent;
+    height: 22px;
+    padding-top:0px;
+    padding-bottom:0px;
+    padding-left: 4px;
+    padding-right: 4px;
+}
+
+#tabela3 {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+#tabela3 td {
+    border: 1px solid black;
+    height: 22px;
+    padding-top:0px;
+    padding-bottom:0px;
+    padding-left: 4px;
+    padding-right: 4px;
+}
+
+
+
+
+
+#tab_s {
+    border: 0px;
+
+}
+#tab_s td {
+    border: 0px;
+    height: 22px;
+    padding-top:0px;
+    padding-bottom:0px;
+    padding-left: 4px;
+    padding-right: 4px;
+}
+
+
+
+
+
+td {
+    _border: 1px solid silver;
+    height: 35px;
+    padding-top:0px;
+    padding-bottom:0px;
+    padding-left: 4px;
+    padding-right: 4px;
+}
+
+td.aj {
+    _border: 1px solid silver;
+    height: 20px;
+    padding-top:0px;
+    padding-bottom:0px;
+    padding-left: 4px;
+    padding-right: 4px;
+}
+
+
+
+a:link {
+    color: black;
+    text-decoration: none;
+}
+a:visited {
+    color: black;
+    text-decoration: none;
+}
+a:hover {
+    color: black;
+    text-decoration: none;
+}
+a:active {
+    color: black;
+    text-decoration: none;
+}
+
+
+body {
+    margin: 0;
+
+    background:#f9f9f9;
+    margin-top: 0; 
+    padding-top: 0; 
+    text-align:center;
+    font-family: Tahoma;
+    font-size:14px;
+
+
+}
+button.p_menu {
+    width:200px;
+    height:30px;
+    background:teal;
+    color:white;
+    border:1px;
+    cursor:pointer;
+    font-weight: bold;
+}
+button.przy_fun {
+    width:150px;
+    height:30px;
+    background:teal;
+    color:white;
+    border:1px;
+    cursor:pointer;
+    font-weight: bold;
+}
+
+
+
+
+
+div#wrapper {
+    width: 900px;
+    top: 0px;
+    margin: 0 auto;
+
+    padding: 0px;
+}
+div#mdruk {
+    font:normal 11px Verdana;
+}
+textarea {
+    resize: none;
+
+
+} 
+tr .tytul_wn{
+    font-weight: normal;
+}
+
+
+ table.cruises { 
+    font-family: verdana, arial, helvetica, sans-serif;
+    font-size: 11px;
+    cellspacing: 0; 
+    border-collapse: collapse; 
+    width: 1200px;    
+    }
+  table.cruises th, table.cruises td { 
+    border-right: 1px solid #999; 
+    border-bottom: 1px solid #999; 
+    }
+  
+  
+  div.scrollableContainer { 
+    position: relative; 
+    width: 552px; 
+    padding-top: 1.7em; 
+    margin: 40px;    
+    border: 1px solid #999;
+    background: #aab;
+    }
+  div.scrollingArea { 
+    height: 240px; 
+    overflow: auto; 
+    }
+
+  table.scrollable thead tr {
+    left: 0; top: 0;
+    
+    margin: 0px;
+    overflow:hidden;
+    }
+
+  table.cruises .lp { width: 38px;  text-align:center;  }
+  table.cruises .dk { width: 100px;  text-align:center; }
+  table.cruises .ks { width: 100px; text-align:center; }
+  table.cruises .ko  { width: 100px; text-align:center; }
+  table.cruises .nrd { width: 100px;  text-align:center; }
+  table.cruises .ddok { width: 100px;  text-align:center; }
+  table.cruises .tepl { width: 100px;  text-align:center; }
+  table.cruises .fopl { width: 100px; text-align:center;  }
+  table.cruises .zap { width: 100px; text-align:center;  }
+  table.cruises .rs { width: 100px;  text-align:center; }
+  table.cruises .uw { width: 427px;  text-align:center; }
+
+
+
+/* ]]> */
